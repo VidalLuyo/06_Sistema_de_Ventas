@@ -1,1 +1,5 @@
 # 06_Sistema_de_Ventas
+
+INTEGRANTES:
+06_JesúsVidalLuyoCárdenas
+07_OscarNicanorRamosOchoa
